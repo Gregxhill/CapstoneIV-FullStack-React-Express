@@ -4,7 +4,7 @@ This Capstone project uses Express, React and various API's to enable a user to 
 
 ## How to install:
 
-- clone this repo to your local repo
+- clone this repo to your local machine
 - install the node modules for both the backend and frontend using `npm install -g node-modules`
 - `cd` into the backend folder and start the server using `npm start`
 - `cd` into the frontend folder and start the react app using `npm start`
