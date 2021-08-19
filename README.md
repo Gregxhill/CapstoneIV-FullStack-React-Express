@@ -1,6 +1,6 @@
 # CapstoneIV-FullStack-React-Express
 
-This Capstone project uses Express, React and Mongoose to enable a user to search for any username across various VCS's
+This Capstone project uses Express, React and various API's to enable a user to search for any username across various VCS's
 
 ## How to install:
 
