@@ -14,7 +14,7 @@ This Capstone project uses Express, React and various API's to enable a user to 
 - type in the username of any user you want to find.
 - if the user exists their accounts will be displayed
 - click on their GitHub account to see more information about them and the repos they may have.
-- to find out more info about each individual repo, simply select a repo and click view
+- to find out more info about each individual repo, simply select a repo and click `view`
 
 ## Tech used:
 
